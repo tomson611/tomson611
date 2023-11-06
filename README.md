@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomson611
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter, Dart, Bloc
-- 💞️ I’m looking to collaborate on Flutter projects
+- 👀 I’m interested in Python & Django
+- 🌱 I’m currently learning Python & Django
+- 💞️ I’m looking to collaborate on Django project
 - 📫 How to reach me twesolowski61@gmail.com
 
 <!---
